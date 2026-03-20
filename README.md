@@ -19,3 +19,13 @@
 
 **Completion Status (Appended)**
 - Prototype: the implementation is limited to HTML/CSS marketing content; no functional extension code is present.
+
+**Program Summary**
+- Static, single-page marketing/landing site for the "ExtensionPro" Chrome extension concept, implemented in `index.html` with styling in `styles.css`.
+- No extension code, backend, or build tooling is included in this repo.
+
+**How to Use**
+- Open `index.html` in a web browser to view the landing page. (Not verified)
+
+**Completion Status**
+- Prototype: only static HTML/CSS marketing content is present; extension functionality is not implemented.
